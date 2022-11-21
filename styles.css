@@ -1,0 +1,24 @@
+* {
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+}
+.intro {
+  display: flex;
+  padding: 40px;
+  margin: 20px;
+}
+#info {
+  margin-left: 50px;
+}
+
+.about {
+  display: flex;
+}
+#second {
+  margin: 30px;
+}
